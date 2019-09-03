@@ -2,7 +2,7 @@
 branches:
 - master
 projects:
-  RankUp:
+  Rank:
     path: ""
     icon: meta/rankup.png
 ...
